@@ -4,3 +4,5 @@ venv
 .idea
 .vscode
 Untitled.ipynb
+.code-workspace
+.python-version
